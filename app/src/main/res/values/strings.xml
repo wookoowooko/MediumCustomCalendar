@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MediumCustomCalendar</string>
+
+    <string name="monday">MO</string>
+    <string name="tuesday">TU</string>
+    <string name="wednesday">WE</string>
+    <string name="thursday">TH</string>
+    <string name="friday">FR</string>
+    <string name="saturday">SA</string>
+    <string name="sunday">SU</string>
+    <string name="incorrect_day">Incorrect day</string>
+
+    <string name="today">Today: %1$s</string>
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+    <string name="incorrect_month">Incorrect month</string>
+    <string name="no_day_data">No data</string>
+
+</resources>
