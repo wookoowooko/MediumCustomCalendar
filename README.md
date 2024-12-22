@@ -26,5 +26,5 @@ Users can click on days to get detailed information or perform actions, such as 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Medium
-[Implementing an Custom Interactive Calendar with Progress Bars for Days Using Jetpack Compose [2025]](https://wookoo.medium.com/a6bb17a1a069)
+[Implementing a Custom Interactive Calendar with Progress Bars for Days Using Jetpack Compose [2025]](https://wookoo.medium.com/a6bb17a1a069)
 
