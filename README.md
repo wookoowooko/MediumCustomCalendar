@@ -1,10 +1,9 @@
 # Implementing an Interactive Calendar with Progress Bars for Days Using Jetpack Compose [2025]
 
-[Portrait](Screenshot2.png)
-[Landscape](Screenshot.png)
+![alt text](https://raw.githubusercontent.com/wookoowooko/MediumCustomCalendar/940db129d036f1b25fdd3dc39e5efdacf573b6ed/Screenshot.png)
+![alt text](https://raw.githubusercontent.com/wookoowooko/MediumCustomCalendar/940db129d036f1b25fdd3dc39e5efdacf573b6ed/Screenshot2.png)
 
 ## Project Description
-
 This project demonstrates how to create an interactive calendar with progress bars for each day, which displays the completion level of tasks or activities. The project uses Jetpack Compose.
 
 ### Month Calendar Display:
